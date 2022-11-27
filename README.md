@@ -9,17 +9,21 @@
 ## 使用法
 
 ### 導入法
-* git clone https://github.com/miyauchi8080/robosys2022.git
 
- chmod +x plus
+git clone https://github.com/miyauchi8080/robosys2022.git
 
- ls -l plus
+chmod +x plus
+
+ls -l plus
 
 * 上記のように端末に打ち込み -rwxrwxr-x 1 と表示されることを確認。
 
 ### 例　
-* seq 5 | ./plus
-* 15
+
+seq 5 | ./plus
+
+15
+
 * 上記の例は１～５までの数字を合計している。
 
 ## 動作確認環境
