@@ -20,7 +20,7 @@ $ ls -l plus
 
 ### 例　
 
-seq 5 | ./plus
+$ seq 5 | ./plus
 
 15
 
