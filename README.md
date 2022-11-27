@@ -10,8 +10,11 @@
 
 ### 導入法
 * git clone https://github.com/miyauchi8080/robosys2022.git
+
  chmod +x plus
+
  ls -l plus
+
 * 上記のように端末に打ち込み -rwxrwxr-x 1 と表示されることを確認。
 
 ### 例　
