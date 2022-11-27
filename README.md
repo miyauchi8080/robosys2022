@@ -6,6 +6,8 @@
 * python
 * 動作確認済　3.7-3.10
 
+[![test](https://github.com/miyauchi8080/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/miyauchi8080/robosys2022/actions/workflows/test.yml)
+
 ## 使用法
 
 ### 導入法
