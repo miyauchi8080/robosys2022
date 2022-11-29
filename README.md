@@ -1,3 +1,4 @@
+[![test](https://github.com/miyauchi8080/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/miyauchi8080/robosys2022/actions/workflows/test.yml)
 # robosys2022
 ## 機能
 * 標準入力からの数を足した数を標準出力する。
@@ -5,14 +6,15 @@
 ## 必要なソフトウェア
 * python
 * 動作確認済　3.7-3.10
-
-[![test](https://github.com/miyauchi8080/robosys2022/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/miyauchi8080/robosys2022/actions/workflows/test.yml)
+* ubuntu 22.04.1 LTS
 
 ## 使用法
 
 ### 導入法
 ~~~
 $ git clone https://github.com/miyauchi8080/robosys2022.git
+
+$ cd robosys2022
 
 $ chmod +x plus
 
@@ -27,9 +29,6 @@ $ seq 5 | ./plus
 15
 ~~~
 * 上記の例は１～５までの数字を合計している。
-
-## 動作確認環境
-* ubuntu
 
 ## ライセンス
 
